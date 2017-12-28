@@ -1,0 +1,5 @@
+---
+name: java
+
+files:
+- java/jdk-8u121-linux-x64.gz
